@@ -1,0 +1,2 @@
+File A content
+Modified content in A
